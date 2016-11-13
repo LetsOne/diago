@@ -1,15 +1,15 @@
 {
-    "author": "machineboy",
+    "author": "LetsOne",
     "dependencies": {},
     "keywords": [],
-    "name": "diago",
+    "name": "diago edit",
     "pebble": {
         "capabilities": [
             "location",
             "configurable",
             "health"
         ],
-        "displayName": "Diago",
+        "displayName": "Diago Edit",
         "enableMultiJS": true,
         "messageKeys": {
             "API": 5,
